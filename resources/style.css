@@ -1,4 +1,21 @@
 body {
     background-color: black;
     color: white;
+    font-family: Verdana;
+    text-align: center;
+}
+
+.link {
+    color: aquamarine;
+    size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    size: 42px;
+}
+
+.footer {
+    text-align: right;
+    color: grey;
 }
